@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          adads
+          하이
         </a>
       </header>
     </div>
